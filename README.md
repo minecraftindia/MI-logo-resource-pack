@@ -6,7 +6,7 @@ This resource pack will replace the default Minecraft java Logo with Minecraft I
 
 # Installation
 
-Download the Latest version zip from Releases Section, [from Here](https://github.com/minecraftindia/MI-logo-resource-pack)
+Download the Latest version zip from Releases Section, [from Here](https://github.com/minecraftindia/MI-logo-resource-pack/releases)
 and put the zip file in following location
 
 ### Windows
