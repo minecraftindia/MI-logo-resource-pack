@@ -12,7 +12,7 @@ and put the zip file in following location
 ### Windows
 
 ```
-C:\Users\{UserName}\AppData\Roaming.minecraft\resourcepacks
+C:\Users\{UserName}\AppData\Roaming\minecraft\resourcepacks
 ```
 
 ### Linux
